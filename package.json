@@ -1,0 +1,22 @@
+{
+  "name": "sony",
+  "version": "0.1.0",
+  "description": "An API to control Sony Digital Cameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vchatterji/sony"
+  },
+  "keywords": [
+    "Sony"
+  ],
+  "author": "Varun Chatterji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vchatterji/sony/issues"
+  },
+  "homepage": "https://github.com/vchatterji/sony"
+}
