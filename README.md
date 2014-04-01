@@ -5,4 +5,5 @@ This simple library and program allows you to remotely take a picture using a So
 
 To use this program, you need to have Node.js installed on your computer.
 
+Click on the picture below to watch a short video on how to use this:
 [![How this works](http://img.youtube.com/vi/HKjiKA-p6a0/0.jpg)](http://www.youtube.com/watch?v=HKjiKA-p6a0)
