@@ -21,6 +21,7 @@ If you wish to simply use the Remote API, you can download and use the Sony Play
 Wishlist
 ========
 The Play memories lacks the following features which would be very useful:
+
 1. Switching to Manual Focus (though this is in part addressed by mapping the C2 button to focus mode selection while the Remote app is running).
 2. Manual focus through the app (turning the lens motor while provided a zoomed view). This would be useful in cases where the camera is mounted beyond physical reach.
 3. Repeated clicking at specified intervals (like in this sample). This would be useful for time-lapse stuff.
