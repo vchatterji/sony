@@ -14,9 +14,13 @@ Disclaimer
 The code is ported from the Android version of the Sony Remote API sample:
 https://developer.sony.com/develop/cameras/get-started/
 
-The purpose of writing the code was to enable clicking sequential photos using the camera over a long duration of time and also to serve as a PoC of writing apps using the SDK on a non-Android platform.
+The purpose of writing the code was to enable clicking sequential photos using the camera over a long duration of time and also to serve as a PoC of writing apps using the SDK on a non-Android platform (especially demonstrating the power of Javascript).
 
 If you wish to simply use the Remote API, you can download and use the Sony Play Memories app.
+
+This project is in no way associated with Sony and does not claim to represent Sony in any way.
+
+The use of the Sony name is only to facilitate easy search and indexing of this project. If the use of the name is objectionable in any manner, I will be happy to change it.
 
 Wishlist
 ========
